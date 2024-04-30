@@ -3,13 +3,15 @@ This repo contains R code for a) downloading Daily HMS smoke shapefiles and b) c
 Developed by Tsengel Nergui, PhD, LADCO Atmospheric Modeler, April 2024
 
 The script contains the following three part.
-#--------------------------------------------------------
- A. Downloading HMS smoke layer shape file
- B. Getting AQS data through RAQSAPI
- C. Creating HMS smoke timeseries at AQS monitor location
-#--------------------------------------------------------
+
+1. Downloading HMS smoke layer shape file
+
+2. Getting AQS data through RAQSAPI
+
+3. Creating HMS smoke timeseries at AQS monitor location
 
 Update history:
+
 initial version based on LADCO EE screening scripts developed  Aug 2018, by Tsengel Nergui
 
 
