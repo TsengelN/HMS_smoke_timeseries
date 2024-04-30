@@ -1,5 +1,5 @@
 # HMS_smoke_timeseries
-This repo contains R code for a) downloading Daily HMS smoke shapefiles and b) creating a HMS smoke data at the EPA AQS monitor location (lat, long, tzone).  
+This repo contains R code for downloading Daily HMS smoke shapefiles and creating a HMS smoke data at the EPA AQS monitor location (lat, long, tzone).  
 Developed by Tsengel Nergui, PhD, LADCO Atmospheric Modeler, April 2024
 
 The script contains the following three parts:
